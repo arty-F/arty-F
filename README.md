@@ -5,18 +5,6 @@
 ---
 
 <h3 align="center">
-  About Me
-</h3>
-
-<ul>
-  <li>I’m C# Unity developer.</li>
-  <li>At the beginning of my career, I was started as Asp.net web developer.</li>
-  <li>In my free time, I make modifications for Warcraft3 on Lua.</li>
-</ul>
-
----
-
-<h3 align="center">
   Tools
 </h3>
 
